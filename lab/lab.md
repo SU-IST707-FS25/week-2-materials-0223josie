@@ -3,9 +3,20 @@
 This week, you will gather in groups of 3 people (not necessarily your project groups) and develop projects for different sets of data.  Each following topic includes links to one or more datasets; your job is to develop three proposal ideas using these (or other) data.  For each proposal, the process should be the same:
 
 1. Pick an area, and examine the data? What sort of analyses are possible? Is the data sufficient and of high quality?  Do you have concerns?
+current inventory, and h
+
 2. Identify your stakeholder groups and their needs. You'll need to envision your likely stakeholder groups, and try to align their needs with the data? Does this lead you to a need for other data?  Is that data available?
+
+hopstals; predict weekly storage and purchase of each categories of vaccines. yes, we will need the expired, the frequency of 
+waht drive the vaccine update.- h how many people are sick,linear, when si the inflation , frenqucny of the , what the  other variable: geograoh information; how many people are sick in a region. 
+urban no education.  - socieconimically, footprint, political data, 
+
+
 3. State your objective
+find which vaccine is mostly popular.
 4. Discuss your modeling approach.  Are there any specific considerations for preprocessing?  Do you anticipate multiple modeling steps?
+linear, when will the inflation happen. 
+
 5. Do you think this is good project to pursue?  Why or why not?
 
 You will have 15 minutes for each proposal idea, after which we will discuss these ideas as a class.
